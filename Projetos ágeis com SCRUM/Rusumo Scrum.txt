@@ -1,0 +1,13 @@
+O que é Scrum?
+Scrum é definido como uma abordagem popular de gerenciamento de projetos baseada na metodologia ágil. Resumidamente, o Scrum oferece às equipes uma nova maneira de enfrentar desafios complexos. 
+Projetado para ser flexível, o Scrum exige que as equipes trabalhem em blocos iterativos conhecidos como “sprints”. Cada sprint dura de uma a duas semanas em média, e a equipe Scrum analisa o trabalho realizado ao final de cada sprint. 
+Scrum Master 
+O Scrum Master é o guardião da metodologia, o treinador, o líder servidor. Deve proteger a equipe de interferências externas, gerenciar pendências, retirar barreiras, comandar reuniões diárias, fazer contato com PO e ser sempre uma facilitador.
+
+Product Owner (PO)
+Pode-se dizer que é o dono do produto, é quem define as características do produto e quem conhece do negócio. É a pessoa que faz a interface com o cliente, ou é o próprio cliente. E se não for ele, precisa saber e entender o que o cliente quer e passar para a equipe, pois é quem a prioridade de cada entrega dentro do todo do projeto.
+
+Equipe de desenvolvimento
+O Team ou a equipe de desenvolvimento em foco único em desenvolver produto, é multidisciplinar e também auto-organizada, tem responsabilidade com o comprometimento de entregar o que foi definido.
+
+

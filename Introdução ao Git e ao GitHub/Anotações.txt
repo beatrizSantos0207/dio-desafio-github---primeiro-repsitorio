@@ -1,2 +1,0 @@
-Git add . - adiciona o update ao repositório local
-git commit - commita as alterações

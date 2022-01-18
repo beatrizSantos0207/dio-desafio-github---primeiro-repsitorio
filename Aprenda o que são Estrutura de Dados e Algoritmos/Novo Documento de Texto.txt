@@ -1,0 +1,11 @@
+Estrutura de dados -> Uma estrutura de dados, em ciência da computação, é uma coleção tanto de valores quanto de operações. É uma implementação concreta de um tipo abstrato de dado ou um tipo de dado básico ou primitivo.
+Vetores e matrizes -> são coleções de variáveis contínuas na memória e acessadas através de um número de índice. A diferença entre vetores e matrizes é que vetores são de uma única dimensão, enquanto matrizes podem conter várias dimensões.
+Registro -> é um valor que contém outros valores, tipicamente em número fixo e sequência e normalmente indexados por nomes.
+
+Lista ou sequência -> é uma estrutura de dados abstrata que implementa uma coleção ordenada de valores, onde o mesmo valor pode ocorrer mais de uma vez. Uma instância de uma lista é uma representação computacional do conceito matemático de uma sequência finita, que é, uma tupla.
+Pilhas -> São estruturas de dados do tipo LIFO (last-in first-out), onde o último elemento a ser inserido, será o primeiro a ser retirado. Assim, uma pilha permite acesso a apenas um item de dados - o último inserido. Para processar o penúltimo item inserido, deve-se remover o último.
+Fila -> são estruturas de dados bastante utilizadas na computação, onde o primeiro elemento a ser inserido, será também o primeiro a ser retirado. Desta forma, serão adicionados elementos no fim e removê-los pelo início.
+
+Árvore-> é uma estrutura de dados que herda as características das topologias em árvore. Conceptualmente diferente das listas encadeadas, em que os dados se encontram numa sequência, nas árvores os dados estão dispostos de forma hierárquica.
+Tabela Hash -> é uma estrutura de dados especial, que associa chaves de pesquisa a valores. Seu objetivo é, a partir de uma chave simples, fazer uma busca rápida e obter o valor desejado.
+Grafo -> é uma colecção de vértices (V) e uma colecção de arcos (E) constituídos por pares de vértices. É uma estrutura usada para representar um modelo em que existem relações entre os objectos de uma certa colecção.
